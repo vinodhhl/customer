@@ -1,2 +1,6 @@
 flask
+Flask
+request
+jsonify
 transformers
+pipeline
